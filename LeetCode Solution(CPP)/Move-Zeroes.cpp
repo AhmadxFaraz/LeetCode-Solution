@@ -1,3 +1,7 @@
+#include <vector>
+#include<iostream>
+using namespace std;
+
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
@@ -7,10 +11,7 @@ public:
                 count++;
             }
         }
-        erase(nums, 0);
-        vector<int> arr;
-        arr.resize(count,0);
-        nums.insert(nums.end(), arr.begin(), arr.end());
-        return nums;
+        nums.erase(remove(nums.begin(), nums.end(), 0), nums.end());
+        nums.resize(nums.size() + count, 0);
     }
 };
