@@ -6,6 +6,8 @@
 
 <p>I'm a <i><b>Competitive Programmer</b></i> and <i><b>Machine Learning Enthusiast</b></i>. I love to solve problems and learn new things.</p>
 
+<p>Apart from programming, I love to play <i><b>Chess</b></i> and <i><b>console games</b></i>. I also love to read books reading about finance.</p>
+
 <p>My <b>LeetCode</b> profile: <a href="https://leetcode.com/ahmadxfaraz/" target="_blank">https://leetcode.com/ahmadxfaraz/</a></p>
 
 <p>My <b>HackerRank</b> profile: <a href="https://www.hackerrank.com/ahmadxfaraz" target="_blank">https://www.hackerrank.com/ahmadxfaraz</a></p>
